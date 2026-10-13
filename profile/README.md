@@ -1,4 +1,4 @@
-# Whalica Studio
+# Lica Studio
 
 An independent, community-driven software development studio.
 
